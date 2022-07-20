@@ -1,0 +1,23 @@
+.box {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: red;
+}
+
+.bg-red {
+	background-color: red;
+}
+
+.bg-blue {
+	background-color: blue;
+}
+
+.card {
+	background-color: gray;
+	color: white;
+	height: 20em;
+	width: 30em;
+	margin-bottom: 1.23em;
+}
